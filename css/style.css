@@ -1,0 +1,43 @@
+* {
+    margin: 3px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    align-items: center;
+
+}
+
+header h1 {
+    padding: 17px 0 20px 0;
+}
+
+.img-logo, .img-foot {
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 15px 30px 15px 30px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+th img {
+    width: 50px;
+
+}
+footer {
+    text-align: center;
+    font-size: 12px;
+}
